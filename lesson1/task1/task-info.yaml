@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/HelloJava.java
+  visible: true
+  placeholders:
+  - offset: 163
+    length: 12
+    placeholder_text: /* TODO */ Add your implementation
+- name: test/HelloJavaTest.java
+  visible: false
